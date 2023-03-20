@@ -20,4 +20,4 @@ $ npm run dev
 
 ## :link: Demo
 
-- <a target="_blank" href="https://interactive-comments-deploy.netlify.app/"> Click Here </a> to see a demo of the app.
+- <a target="_blank" href="https://blog-site-next-js.vercel.app/"> Click Here </a> to see a demo of the app.
